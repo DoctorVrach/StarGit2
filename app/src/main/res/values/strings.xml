@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">StarGit2</string>
+    <string name="bu">КНОПКА!</string>
+    <string name="am">Нажми на кнопку!</string>
 </resources>
